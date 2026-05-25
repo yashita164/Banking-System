@@ -1,6 +1,6 @@
 # Banking System using Hash Table and Linked List
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a menu-driven Banking Management System implemented in the C programming language using fundamental Data Structures concepts such as **Hash Tables** and **Singly Linked Lists**.
 
@@ -10,7 +10,7 @@ The project demonstrates the practical implementation of hashing techniques for 
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - To implement a banking system using Hash Tables and Linked Lists.
 - To achieve efficient account storage and fast account lookup.
@@ -20,7 +20,7 @@ The project demonstrates the practical implementation of hashing techniques for 
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -33,7 +33,7 @@ The project demonstrates the practical implementation of hashing techniques for 
 
 ---
 
-# 🧠 Data Structures Used
+# Data Structures Used
 
 ## 1. Hash Table
 
@@ -65,20 +65,20 @@ Each bucket of the hash table contains a linked list to handle collisions using 
 
 ---
 
-# ✨ Features
+# Features
 
-- ✅ Create New Account
-- ✅ Deposit Money
-- ✅ Withdraw Money
-- ✅ Transfer Funds
-- ✅ Search Account
-- ✅ Display All Accounts
-- ✅ Collision Handling using Linked List
-- ✅ Modular Multi-file Structure
+- Create New Account
+- Deposit Money
+- Withdraw Money
+- Transfer Funds
+- Search Account
+- Display All Accounts
+- Collision Handling using Linked List
+- Modular Multi-file Structure
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 Banking-System/
@@ -91,7 +91,7 @@ Banking-System/
 
 ---
 
-# 🔄 Detailed Working
+# Detailed Working
 
 ## 1. Creating an Account
 
@@ -145,7 +145,7 @@ Banking-System/
 
 ---
 
-# 📋 Functions Used
+# Functions Used
 
 | Function | Description |
 |----------|-------------|
@@ -160,7 +160,7 @@ Banking-System/
 
 ---
 
-# ▶️ How to Run the Project
+# How to Run the Project
 
 ## Step 1: Compile the Program
 
@@ -186,7 +186,7 @@ banking.exe
 
 ---
 
-# 🖥️ Sample Menu
+# Sample Menu
 
 ```text
 ===== BANKING SYSTEM =====
@@ -212,7 +212,7 @@ banking.exe
 
 ---
 
-# ✅ Advantages
+# Advantages
 
 - Fast searching using hashing
 - Efficient collision handling
@@ -222,7 +222,7 @@ banking.exe
 
 ---
 
-# ❌ Limitations
+# Limitations
 
 - Performance may reduce with excessive collisions
 - Requires good hash function design
@@ -230,7 +230,7 @@ banking.exe
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - GUI-based banking interface
 - File handling for permanent data storage
@@ -241,7 +241,7 @@ banking.exe
 
 ---
 
-# 📚 Concepts Demonstrated
+# Concepts Demonstrated
 
 - Hash Tables
 - Separate Chaining
@@ -252,7 +252,7 @@ banking.exe
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 This project successfully demonstrates the implementation of a Banking Management System using Hash Tables and Linked Lists in C. The system efficiently performs banking operations while showcasing important Data Structures concepts such as hashing, linked list traversal, collision handling, dynamic memory allocation, and modular programming.
 
@@ -260,6 +260,3 @@ The project provides practical understanding of how real-world systems manage la
 
 ---
 
-# 🔗 GitHub Repository
-
-(Add your GitHub repository link here)
