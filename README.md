@@ -202,7 +202,7 @@ banking.exe
 
 ---
 
-# 📊 Applications
+# Applications
 
 - Banking systems
 - Financial management systems
